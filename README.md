@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### Covid-19 tracker 
-It is a simple reactjs project that uses api to get real-time data about covid cases, death and recoveries around the orund.
+It is a simple reactjs project that uses api to get real-time data about covid cases, death and recoveries around the around.
 The visualization uses chart.js.
 
 ## Available Scripts
